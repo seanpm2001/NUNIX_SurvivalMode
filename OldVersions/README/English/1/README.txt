@@ -19,11 +19,13 @@ It is currently being debated whether NUNIX should have this much power in contr
 
 ## Components
 
+- [:octocat: `SurvivalMode: Docs`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Docs/)
 - [:octocat: `SurvivalMode: HungerE`](https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE/)
+- [:octocat: `SurvivalMode: Safety`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety/)
 - Other/coming soon
 
 ***
 
-**File version:** `1 (2023, Monday, May 22nd at 10:12 pm PST)`
+**File version:** `2 (2023, Tuesday, May 23rd at 9:00 pm PST)`
 
 ***
